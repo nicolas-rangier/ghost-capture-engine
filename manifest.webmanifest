@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Ghost Capture Engine Alpha",
-  "short_name": "Ghost Alpha",
+  "name": "Ghost Capture Engine Beta",
+  "short_name": "Ghost Beta",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
